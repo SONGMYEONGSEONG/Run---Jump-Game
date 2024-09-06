@@ -4,6 +4,7 @@
 
 = 조작키 = 
 1.이동 : A,D 왼쪽/오른쪽 화살표 
-2.마우스 클릭 : 발사 방향 및 발사 파워 모으기
+2.점프 : 마우스 클릭 길게 누른후 떼기 or 스페이스바 누른후 떼기
 
-![1](https://github.com/user-attachments/assets/41b4828d-151e-47c9-b3c4-30c33de8a13b)
+
+![1](https://github.com/user-attachments/assets/90982224-873e-40bf-90f6-e7d6faa6958e)
